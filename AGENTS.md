@@ -197,3 +197,7 @@ GitHub Actions workflows in `.github/workflows/`:
 - `ci.yml` - Core tests, unit tests, integration tests, typecheck, E2E
 - `release.yml` - Desktop app build and publish to GitHub releases
 - `commitlint.yml` - Conventional commit validation
+
+## Shared FPC universal skill
+
+For substantive engineering, product or research tasks, consult `.agents/skills/fpc-universal/SKILL.md` when relevant. This general skill is subordinate to every repository-specific, nested, safety, architecture, verification and release instruction above.
